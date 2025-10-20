@@ -1,1 +1,1 @@
-export const mainDomain = "http://localhost:3000";
+export const mainDomain = "https://intern-task-sandy.vercel.app";

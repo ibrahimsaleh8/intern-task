@@ -7,7 +7,7 @@ The project is a simple **Sporting Club System** that allows users to manage **s
 
 ## 🚀 Live Demo
 
-🔗 [View Live on Vercel](https://intern-task.vercel.app)
+🔗 [View Live on Vercel](https://intern-task-sandy.vercel.app/)
 
 ---
 
