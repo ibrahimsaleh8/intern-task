@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏅 Blue Ribbon - Frontend Internship Task
 
-## Getting Started
+This is my submission for the **Blue Ribbon Frontend Development Internship Task**.  
+The project is a simple **Sporting Club System** that allows users to manage **sports**, **members**, and **subscriptions** between them.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Live Demo
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🔗 [View Live on Vercel](https://intern-task.vercel.app)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🧩 Features
 
-## Learn More
+### 🏀 Sports Page
 
-To learn more about Next.js, take a look at the following resources:
+- View a list of sports.
+- Add a new sport using a form.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 👥 Members Page
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- View a list of members.
+- Add a new member using a form.
 
-## Deploy on Vercel
+### 🔗 Subscriptions
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Select a member and subscribe them to one or more sports.
+- Prevent subscribing the same member to the same sport twice.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🌟 Bonus Features Implemented
+
+- ✅ Form validation using React Hook Form.
+- ✅ Responsive layout (mobile & desktop).
+- ✅ Built with **TypeScript**.
+- ✅ Clean, reusable components.
+- ✅ State management for handling sports, members, and subscriptions.
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology                  | Purpose                    |
+| --------------------------- | -------------------------- |
+| **Next.js 14 (App Router)** | Framework                  |
+| **TypeScript**              | Type safety                |
+| **React Hook Form + Zod**   | Form handling & validation |
+| **Tailwind CSS**            | Styling                    |
+| **Shadcn UI**               | UI Components              |
+| **Mock data (local state)** | Data handling              |
+
+---
+
+## 📂 Project Structure
